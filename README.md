@@ -1,6 +1,6 @@
 # Telegram Song Download Bot ❤
 
-## You can download any song using this bot. Can be found in telegram as [@JESongBot](https://t.me/JESongBot)
+## You can download any song using this bot. Can be found in telegram as [@wysongbot](https://t.me/wysongbot)
 
 ### Commands:
 - In Groups - `/song <song name>`
@@ -20,4 +20,4 @@
 
 - [Waly](https://t.me/enjoyyourmilk)
 
-- [temanesia group](https://t.me/temanesiaonline)
+- [Temanesia Group](https://t.me/temanesiaonline)
