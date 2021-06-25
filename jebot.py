@@ -45,7 +45,7 @@ Jebot = Client(
  #No bots also allowed
 @Jebot.on_message(filters.private & ~filters.bot & ~filters.command("help") & ~filters.command("start") & ~filters.command("s"))
 async def song(client, message):
- #ImJanindu #JEBotZ
+ #jackblose #wysongbot
     cap = "@wysupportinfo"
     url = message.text
     rkp = await message.reply("Processing...")
