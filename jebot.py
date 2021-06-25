@@ -128,7 +128,7 @@ async def song(client, message):
     
 @Jebot.on_message(filters.command("song") & ~filters.edited & filters.group)
 async def song(client, message):
-    cap = "@JEBotZ"
+    cap = "@wysupportinfo"
     url = message.text.split(None, 1)[1]
     rkp = await message.reply("Processing...")
     if not url:
