@@ -8,7 +8,7 @@
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/Songdl-tgbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jackblose/Songdl-tgbot)
 
 ### Credits:
 
@@ -18,6 +18,6 @@
 
 ### Developers:
 
-- [@ImJanindu](https://t.me/ImJanindu)
+- [Waly](https://t.me/enjoyyourmilk)
 
-- [@InukaASiTH](https://t.me/InukaASiTH)
+- [temanesia group](https://t.me/temanesiaonline)
